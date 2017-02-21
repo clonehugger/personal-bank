@@ -1,21 +1,23 @@
 # personal-bank
 Web-based application to mantain control on personal expenses
 
-Configuración
+
+<h2><b>Configuración </b></h2>
 
 Utilizar el archivo .env.example como guía para escribir el archivo .env.
 Instalar dependencias con composer install
 
-Configurar de manera adecuada los permisos de escritura/lectura de las carpetas:
+<h3><i>Configurar de manera adecuada los permisos de escritura/lectura de las carpetas:</i></h3>
+<ul>
+<li>app/storage/</li>
+<li>app/storage/logs</li>
+<li>app/storage/framework/cache</li>
+<li>app/storage/framework/sessions</li>
+<li>app/storage/framework/views</li>
+<li>bootstrap/cache/</li>
+</ul>
 
-app/storage/
-app/storage/logs
-app/storage/framework/cache
-app/storage/framework/sessions
-app/storage/framework/views
-bootstrap/cache/
-
-Base de datos
+<h2><b>Base de datos</b></h2>
 
 Crear la base de datos BANK en el servidor
 Configurar los parámetros de conexión a la base de datos en el archivo .env.
