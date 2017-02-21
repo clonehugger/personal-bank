@@ -4,8 +4,10 @@ Web-based application to mantain control on personal expenses
 
 <h2><b>Configuración </b></h2>
 
-Utilizar el archivo .env.example como guía para escribir el archivo .env.
-Instalar dependencias con composer install
+<ul>
+<li>Utilizar el archivo <i>.env.example</i> como guía para escribir el archivo<i> .env</i>.</li>
+<li>Instalar dependencias con composer install</li>
+<li>Crear proyecto <i>composer create-project laravel/laravel personal-bank</i> y ligar a github</li>
 
 <h3><i>Configurar de manera adecuada los permisos de escritura/lectura de las carpetas:</i></h3>
 <ul>
