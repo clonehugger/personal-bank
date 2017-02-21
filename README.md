@@ -19,7 +19,7 @@ Instalar dependencias con composer install
 
 <h2><b>Base de datos</b></h2>
 <ul>
-<li>Crear la base de datos BANK en el servidor</li>
+<li>Crear la base de datos <i><b>BANK</b></i> en el servidor</li>
 <li>Configurar los parámetros de conexión a la base de datos en el archivo .env.</li>
 <li>Realizar la migración de las tablas de la base de datos, por ejemplo:</li>
   <ul>
