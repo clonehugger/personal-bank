@@ -18,10 +18,15 @@ Instalar dependencias con composer install
 </ul>
 
 <h2><b>Base de datos</b></h2>
-
-Crear la base de datos BANK en el servidor
-Configurar los parámetros de conexión a la base de datos en el archivo .env.
-Realizar la migración de las tablas de la base de datos, por ejemplo:
-  php artisan migrate
-Sembrar los datos predeterminados en la base de datos, por ejemplo:
-  php artisan db:seed
+<ul>
+<li>Crear la base de datos BANK en el servidor</li>
+<li>Configurar los parámetros de conexión a la base de datos en el archivo .env.</li>
+<li>Realizar la migración de las tablas de la base de datos, por ejemplo:</li>
+  <ul>
+  <li><i>php artisan migrate</i></li>
+   </ul>
+<li>Sembrar los datos predeterminados en la base de datos, por ejemplo:</li>
+  <ul>
+  <li><i>php artisan db:seed</i></li>
+  </ul>
+  </ul>
