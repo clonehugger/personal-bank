@@ -18,7 +18,7 @@ Web-based application to mantain control on personal expenses
 <li>app/storage/framework/views</li>
 <li>bootstrap/cache/</li>
 </ul>
-
+</ul>
 <h2><b>Base de datos</b></h2>
 <ul>
 <li>Crear la base de datos <i><b>BANK</b></i> en el servidor</li>
